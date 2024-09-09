@@ -8,3 +8,4 @@ Relatório desenvolvido no PowerBI Desktop e publicado no PowerBI Service, onde 
 
 https://app.powerbi.com/view?r=eyJrIjoiNWEwMjUwNzUtNDc2Zi00OWVhLTk4MzgtYmQ2YjE2YmQ2Njc5IiwidCI6IjE0Y2JkNWE3LWVjOTQtNDZiYS1iMzE0LWNjMGZjOTcyYTE2MSIsImMiOjh9
 
+Neste repositório, fica disponível o arquivo .pbix do relatório.
