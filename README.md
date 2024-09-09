@@ -1,2 +1,3 @@
-# sample_financial_report
+# Relatório Sample Financial
+
 Relatório do PowerBI, explorando a base de dados amostral 'Sample Financial'.
